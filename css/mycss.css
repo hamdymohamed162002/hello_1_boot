@@ -1,0 +1,63 @@
+.container-fluid{
+    background-color: #08526d;
+    color: white;
+}
+
+.qute{
+    border: 2px solid #ec1c23 ;
+    border-radius: 10px;
+    padding: 2px;
+
+}
+.hu{
+    padding: 10px;
+}
+.hye{
+    padding: 10px;
+}
+.kk
+{
+    text-align: right;
+}
+.navbar-brand span:first-child
+{
+color:#08526d;
+font-weight: bold;
+}
+.navbar-brand span:last-child
+{
+color:#ec1c23;
+font-weight: bold;
+}
+.navbar-brand span
+{
+
+font-weight: bold;
+font-size: 40px;
+}
+.nav-link{
+    text-transform: uppercase;
+    margin-left: 5px;
+    font-size: 20px;
+}
+.nav-link:hover{
+    color: red !important;
+}
+.carousel .carousel-inner .overlay{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 2;
+}
+.carousel-control-next{
+ z-index: 3;
+}
+.carousel-caption
+{
+    position: absolute;
+    top: 200px;
+    font-size: 100px;
+    text-align: left;
+
+}
